@@ -1,1 +1,3 @@
-BEM VINDO. WELCOME
+Bem vindo ao meu site
+----------------------
+welcome to my site
